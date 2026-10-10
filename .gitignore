@@ -1,0 +1,25 @@
+# Временные
+*.tmp
+*.log
+*.bak
+
+# Системные
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Lua
+*.luac
+
+# Python (если будут скрипты сборки)
+__pycache__/
+*.pyc
+
+# Конфиг (у каждого свой)
+config.json
